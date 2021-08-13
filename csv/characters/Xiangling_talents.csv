@@ -1,0 +1,7 @@
+Talent Name,Type Name,Description
+Dough-Fu,Normal Attack,"Normal Attack: Performs up to five consecutive spear strikes.Charged Attack: Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+Guoba Attack,Elemental Skill,"Summons Guoba the Panda. After 2 seconds, Guoba starts breathing fire at an opponent, dealing AoE Pyro DMG every 1.5 seconds 4 times."
+Pyronado,Elemental Burst,"Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her. The Pyronado will move with your character for so long as the ability persists, dealing Pyro DMG to all opponents in its path."
+Crossfire,1st Ascension Passive,Increases the flame range of Guoba by 20%.
+"Beware, It's Super Hot!",4th Ascension Passive,"When Guoba Attack's effects end, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s."
+Chef de Cuisine,Utility Passive,"When a Perfect Cooking is achieved on an ATK-boosting dish, Xiangling has a 12% chance to receive double the product."

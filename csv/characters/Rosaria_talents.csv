@@ -1,0 +1,7 @@
+Talent Name,Type Name,Description
+Spear of the Church,Normal Attack,"Normal Attack: Performs up to five rapid strikes.Charged Attack:  Consumes a certain amount of Stamina to lunge forward, dealing damage to enemies along the way.Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+Ravaging Confession,Elemental Skill,"Rosaria swiftly positions herself behind her opponent, then pierces and slashes the enemy with her polearm, dealing Cryo DMG.Rosaria cannot use this ability to move behind larger opponents."
+Rites of Termination,Elemental Burst,"Rosaria's unique take on this prayer ritual.First, she swings her weapon to slash surrounding enemies; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal Cryo DMG.While active, the Ice Lance periodically releases a blast of cold air, dealing Cryo DMG to surrounding enemies."
+Regina Probationum,1st Ascension Passive,"When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT Rate increases by 12% for 5s."
+Shadow Samaritan,4th Ascension Passive,Casting Rites of Termination increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.CRIT Rate Bonus gained this way cannot exceed 15%.
+Night Walk,Utility Passive,"At night (18:00 - 6:00), increases the Movement SPD of your own party members by 10%.Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the same effects."

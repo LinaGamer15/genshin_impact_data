@@ -1,0 +1,7 @@
+Talent Name,Type Name,Description
+Ceremonial Bladework,Normal Attack,"Normal Attack: Performs up to 5 rapid strikes.Charged Attack: Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+Frostgnaw,Elemental Skill,"Unleashes a frigid blast, dealing Cryo DMG to opponents in front of Kaeya."
+Glacial Waltz,Elemental Burst,"Coalescing the frost in the air, Kaeya summons 3 icicles that revolve 4 times around him for 8 seconds.These icicles will follow the character around and deal Cryo DMG to opponents in their path for so long as they persist."
+Cold-Blooded Strike,1st Ascension Passive,Every hit with Frostgnaw regenerates HP for Kaeya equal to 15% of his ATK.
+Glacial Heart,4th Ascension Passive,Opponents Frozen by Frostgnaw will drop additional Elemental Particles. Frostgnaw may only produce a maximum of 2 additional Elemental Particles per use.
+Hidden Strength,Utility Passive,Decreases sprinting Stamina consumption of your characters in the party by 20%.Not stackable with Passive Talents that provide the exact same effects.

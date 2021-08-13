@@ -1,0 +1,7 @@
+Talent Name,Type Name,Description
+Kamisato Art: Kabuki,Normal Attack,"Normal Attack: Perform up to 5 rapid strikes.Charged Attack: Consumes a certain amount of Stamina to unleash a continuous stream of sword ki.Plunging Attack: Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact."
+Kamisato Art: Hyouka,Elemental Skill,"Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG."
+Kamisato Art: Soumetsu,Elemental Burst,"Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.Frostflake Seki no ToA storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMGThe snowstorm explodes after its duration ends, dealing AoE Cryo DMG."
+Kamisato Art: Senho,Alternate Sprint,"Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.When she reappears, the following effects occur:Ayaka unleashes frigid energy to apply Cryo on nearby opponents.Coldness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period."
+Amatsumi Kunitsumi Sanctification,1st Ascension Passive,"After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s."
+Kanten Senmyou Blessing,4th Ascension Passive,"When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:Restores 10 StaminaGains 18% Cryo DMG Bonus for 10s."
