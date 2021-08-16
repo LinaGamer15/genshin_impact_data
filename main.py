@@ -28,8 +28,3 @@ nations = [playable[i] for i in range(4, len(playable), 5)]
 data = {'Name': names, 'Rarity': raritys, 'Element': elements, 'Weapon': weapons, 'Sex': sexs, 'Nation': nations}
 df = pd.DataFrame(data)
 df.to_csv('./csv/genshin_playable_characters.csv', index=False)
-
-
-
-
-
